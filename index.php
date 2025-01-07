@@ -2,5 +2,7 @@
 $nama = "Muhammad Rafi Rizqi Hermawan" ;
 $nisn = "0073883295";
 
-echo $nama, $nisn;
+echo $nama ;
+echo "<br>";
+echo $nisn;
 ?>
